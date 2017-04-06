@@ -1,1 +1,7 @@
+# Node modules
 node_modules/
+
+# build and release
+build/
+release/
+
