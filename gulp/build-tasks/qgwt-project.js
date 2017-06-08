@@ -3,7 +3,7 @@
 module.exports = function (gulp, plugins, config) {
   return function (cb) {
     const target = [
-      `${config.basepath.web_template}/swe/assets/${config.basepath.template_version}/**/*`,
+      `${config.basepath.web_template}/assets/${config.basepath.template_version}/**/*`,
     ];
 
     if (config.localAssets === true) {

@@ -5,7 +5,7 @@ const del             = require('del');
 const runSequence     = require('run-sequence');
 const plugins         = require('gulp-load-plugins')();
 
-let config          = require('./gulp/gulp-config.js');
+let config          	= require('./gulp/gulp-config.js');
 
 // Project quick configuration
 config.localAssets = true;
