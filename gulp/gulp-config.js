@@ -7,7 +7,7 @@ module.exports = {
     release: 'release',
     test: 'test',
     node_modules: 'node_modules',
-    web_template: 'node_modules/glue-template-release',
+    web_template: 'node_modules/web-template-release',
     template_version: 'v3',
   },
   build: {
