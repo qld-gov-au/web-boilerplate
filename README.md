@@ -1,15 +1,5 @@
 # web-boilerplate
-Queensland Government Website Boilerplate
 
-## Using this to jumpstart your project
+Please go here for more information: [Single Website Experience](https://www.forgov.qld.gov.au/information-and-communication-technology/communication-and-publishing/website-and-digital-publishing/website-standards-guidelines-and-templates/swe)
 
-### 1. Fork this repo
 
-### 2. Check out your new repo
-
-### 3. Initialise this project
-
-```bash
-npm install
-npm start
-```
